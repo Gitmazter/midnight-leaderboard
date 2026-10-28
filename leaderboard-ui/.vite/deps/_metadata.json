@@ -1,0 +1,145 @@
+{
+  "hash": "9a665a35",
+  "configHash": "e14aa6c7",
+  "lockfileHash": "2c269e9a",
+  "browserHash": "0d9d7d79",
+  "optimized": {
+    "@midnight-ntwrk/compact-runtime": {
+      "src": "../../../node_modules/@midnight-ntwrk/compact-runtime/dist/index.js",
+      "file": "@midnight-ntwrk_compact-runtime.js",
+      "fileHash": "a707d139",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a0233941",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "56778108",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "d22cccf2",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "e44eb2c6",
+      "needsInterop": true
+    },
+    "pino": {
+      "src": "../../../node_modules/pino/browser.js",
+      "file": "pino.js",
+      "fileHash": "4b11d668",
+      "needsInterop": true
+    },
+    "@midnight-ntwrk/midnight-js-protocol/compact-runtime": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-protocol/dist/compact-runtime.mjs",
+      "file": "@midnight-ntwrk_midnight-js-protocol_compact-runtime.js",
+      "fileHash": "8f4feb11",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "53eab852",
+      "needsInterop": false
+    },
+    "fp-ts/function": {
+      "src": "../../../node_modules/fp-ts/es6/function.js",
+      "file": "fp-ts_function.js",
+      "fileHash": "f136d78a",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/midnight-js-fetch-zk-config-provider": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-fetch-zk-config-provider/dist/index.mjs",
+      "file": "@midnight-ntwrk_midnight-js-fetch-zk-config-provider.js",
+      "fileHash": "47a28dc4",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/midnight-js-http-client-proof-provider": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-http-client-proof-provider/dist/index.mjs",
+      "file": "@midnight-ntwrk_midnight-js-http-client-proof-provider.js",
+      "fileHash": "59763d07",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/midnight-js-indexer-public-data-provider": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-indexer-public-data-provider/dist/index.mjs",
+      "file": "@midnight-ntwrk_midnight-js-indexer-public-data-provider.js",
+      "fileHash": "84ea47fb",
+      "needsInterop": false
+    },
+    "semver": {
+      "src": "../../../node_modules/semver/index.js",
+      "file": "semver.js",
+      "fileHash": "8173c002",
+      "needsInterop": true
+    },
+    "@midnight-ntwrk/midnight-js-protocol/ledger": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-protocol/dist/ledger.mjs",
+      "file": "@midnight-ntwrk_midnight-js-protocol_ledger.js",
+      "fileHash": "af66b6f4",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/midnight-js-network-id": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-network-id/dist/index.mjs",
+      "file": "@midnight-ntwrk_midnight-js-network-id.js",
+      "fileHash": "666593c3",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/compact-js": {
+      "src": "../../../node_modules/@midnight-ntwrk/compact-js/dist/esm/index.js",
+      "file": "@midnight-ntwrk_compact-js.js",
+      "fileHash": "80d3e617",
+      "needsInterop": false
+    },
+    "@midnight-ntwrk/midnight-js-contracts": {
+      "src": "../../../node_modules/@midnight-ntwrk/midnight-js-contracts/dist/index.mjs",
+      "file": "@midnight-ntwrk_midnight-js-contracts.js",
+      "fileHash": "ed5945c4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZG2UH7VP": {
+      "file": "chunk-ZG2UH7VP.js"
+    },
+    "chunk-UM3OJ4PF": {
+      "file": "chunk-UM3OJ4PF.js"
+    },
+    "chunk-B3BP4IHX": {
+      "file": "chunk-B3BP4IHX.js"
+    },
+    "chunk-OBO3OFS7": {
+      "file": "chunk-OBO3OFS7.js"
+    },
+    "chunk-TGHO2OVB": {
+      "file": "chunk-TGHO2OVB.js"
+    },
+    "chunk-XGIZIQI6": {
+      "file": "chunk-XGIZIQI6.js"
+    },
+    "chunk-SUMFIE6Z": {
+      "file": "chunk-SUMFIE6Z.js"
+    },
+    "chunk-7LIJVWWR": {
+      "file": "chunk-7LIJVWWR.js"
+    },
+    "chunk-OQ4UHW2J": {
+      "file": "chunk-OQ4UHW2J.js"
+    },
+    "chunk-MYLVD5OR": {
+      "file": "chunk-MYLVD5OR.js"
+    },
+    "chunk-EF3O5H2F": {
+      "file": "chunk-EF3O5H2F.js"
+    }
+  }
+}
